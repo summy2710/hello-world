@@ -1,2 +1,5 @@
 # hello-world
-just one repository
+
+Hi , all
+
+welcome to the group of foodie and Gamers
